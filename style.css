@@ -1,0 +1,31 @@
+.c1 {
+	width: 800px;
+	height: 500px;
+	border: 1px solid black;
+	mardin: 40px;
+	background-image: url(img/siatka.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+h3 {
+	margin: 0;
+	display: inline-block;
+	margin-left: 10px;
+	
+}
+
+input {
+	margin-top: 20px;
+	position: absolute;
+	bottom: 180px;
+	left: 10px;
+}
+
+h3 {
+	margin: 0;
+	position: absolute;
+	left: 70px;
+	bottom: 180px;
+	
+}
